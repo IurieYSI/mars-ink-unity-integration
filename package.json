@@ -1,12 +1,7 @@
 ﻿{
   "name": "ink.unityintegration",
-  "displayName": "ink",
+  "displayName": "Ink",
   "version": "0.9.21",
   "unity": "2019.1",
-  "unityRelease": "0f1",
-  "description": "Ink Unity Integration",
-  "keywords": [
-    "ink",
-    "unity"
-  ]
+  "description": "Ink Unity Integration"
 }
